@@ -1,7 +1,16 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# Diabetes prediction using ML techniques.
+A semester project conducted while taking Machine Learning course at univeristy. The goal of the exercise is to detect the presence of diabetes in a patient based on previous patient data.
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+**Dataset** 
+https://www.kaggle.com/datasets/mathchi/diabetes-data-set
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+### Approaches
+Two different approaches were taken to solve the same probelem and results were compared. A simple ML approach and a Deep learning approach. 
+
+- Logistic Regression
+- ANN
+
+Models were further regularized to get optimal results.
+
+
